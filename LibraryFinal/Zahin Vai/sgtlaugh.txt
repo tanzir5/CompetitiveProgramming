@@ -1,0 +1,805 @@
+FFT/NTT + Karatsuba:
+Fast Walsh Transform for XOR Subsequence HackerRank -> http://codeforces.com/contest/663/submission/17348298
+Understanding NTT - http://apps.topcoder.com/forums/?module=Thread&threadID=618596&mc=18&view=threaded
+Undestanding - http://www.cs.cmu.edu/afs/cs/academic/class/15451-s10/www/lectures/lect0423.txt
+Undestanding - http://web.cecs.pdx.edu/~maier/cs584/Lectures/lect07b-11-MG.pdf
+Understanding - https://simomaths.wordpress.com/2012/10/08/polynomial-multiplication-karatsuba-and-fast-fourier-transform/
+Xavier is learning to count - UVA 12327 SPOJ XC -> http://blog.csdn.net/gatevin/article/details/47048653  -> SOLVED
+https://uva.onlinejudge.org/external/126/12633.pdf -> SOLVED
+https://uva.onlinejudge.org/external/125/12559.pdf
+https://uva.onlinejudge.org/external/122/12298.pdf
+https://uva.onlinejudge.org/external/116/11640.pdf
+Live Archive 6808 - Best Position
+Golf Bot - UVA 12879  -> SOLVED
+K-neighbor substrings - UVALive 4671 	-> SOLVED
+Design Tutorial: Increase the Constraints - Codeforces 472G
+Just A Few More Triangles! - UVA 11564 -> SOLVED
+Fuzzy Search - Codeforces 528D -> SOLVED
+URAL 1996 Cipher Message
+ZOJ 3856 Goldbach
+Codechef COUNTARI
+Codeforces 623E - Transforming Sequence -> SOLVED
+HDU 4609 3 Idiots
+HDU 4602 Parition
+CODECHEF PRIMEDST
+CODECHEF FARASA -> SOLVED
+HDU 5322 Hope
+HDU 5552 Bus Routes
+HDU 5279 YJC Plays Minecraft
+HDU 5244 Inverse
+HDU 5197 DZY Loves Orzing
+https://www.codechef.com/FEB15/problems/DEVLOCK
+Russian Codecup Problem -> http://petr-mitrichev.blogspot.com/2014/06/this-week-in-competitive-programming_11.html
+ZOJ 3874 Permutation Graph
+ZOJ 3904 Birthday Gift
+ZOJ 3899 State Reversing
+Design New Capital UVA 1733 -> SOLVED
+Codeforces Gym 100341C - AVL Trees
+http://codeforces.com/problemset/problem/300/D
+https://www.codechef.com/JUNE15/problems/MOREFB
+Weird Chess - Codeforces 538D   try to solve with FFT
+HDU 5307 He is Flying -> Nice link for this problem with NTT, FFT, and NTT + CRT -> http://morris821028.github.io/2015/08/04/hdu-5307/  -> SOLVED
+http://www.spoj.com/problems/MUL/ 		-> SOLVED 
+http://www.spoj.com/problems/VFMUL/ 	-> SOLVED 
+http://www.spoj.com/problems/MAXMATCH/ 		-> SOLVED 
+http://www.spoj.com/problems/TSUM/
+http://www.spoj.com/problems/TRKNIGHT/
+http://www.spoj.com/problems/POLYMUL/ 	-> SOLVED
+http://www.spoj.com/problems/COLORCAT/ + http://www.spoj.com/problems/BLCATS/
+https://www.hackerrank.com/contests/w16/challenges/white-falcon-and-xor 	-> SOLVED
+http://codeforces.com/contest/438/problem/E
+https://www.hackerrank.com/contests/back2school14/challenges/xor-subsequence
+https://www.hackerrank.com/contests/infinitum11/challenges/demidenko-multigift
+http://www.cs.cmu.edu/afs/cs/academic/class/15451-s10/www/lectures/lect0423.txt
+http://www.quora.com/What-is-an-intuitive-explanation-of-the-FFT-algorithm
+http://codeforces.com/contest/553/problem/E
+https://uva.onlinejudge.org/external/17/1718.pdf
+http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1637
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=75145#overview
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=92780#overview
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=92283#overview
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=88058#overview
+
+
+KD TREE:
+UVA 12938 - Keep Fit
+UVA Weird Advertisement -> Clean IMPLEMENTATION -> https://github.com/zimpha/acm-icpc/blob/master/UVA/11983%20-%20Weird%20Advertisement.cc
+UVALIVE 6041 Retrenchment
+http://codeforces.com/blog/entry/21077
+http://www.spoj.com/problems/GANNHAT/en/
+http://acm.hust.edu.cn/vjudge/contest/129549#overview
+http://www.spoj.com/problems/FAILURE/   Solution: http://codeforces.com/blog/entry/45583
+https://www.hackerrank.com/contests/codeagon/challenges/gordons-beverage
+https://github.com/foreverbell/acm-icpc-cheat-sheet/blob/master/code/k-d-tree.cpp -> IMPLEMENTATION
+
+
+HEAVY LIGHT DECOMPOSITION:
+http://www.spoj.com/problems/GOT/
+http://codeforces.com/contest/593/problem/D
+http://codeforces.com/contest/442/problem/D
+https://www.hackerrank.com/contests/epiccode/challenges/epic-tree
+http://blog.anudeep2011.com/heavy-light-decomposition/
+SPOJ QTREE -> SOLVED
+UVA Tobby On Treees 13101 -> SOLVED
+UVA Answering Queries On A Tree 12424 -> SOLVED
+UBA Lighting Energy Report 1674 -> SOLVED
+
+
+CENTROID DECOMPOSITION:
+https://www.hackerrank.com/contests/w15/challenges/a-knapsack-problem
+http://codeforces.com/blog/entry/19175
+
+
+
+DELAUNAY TRIANGULATION:
+http://codeforces.com/contest/442/problem/E (N log N required)
+
+
+
+SQRT DECOMPOSITION:
+http://codeforces.com/blog/entry/23005 (Problem list)
+http://codeforces.com/blog/entry/20489
+https://www.codechef.com/problems/GERALD07
+http://codeforces.com/contest/398/problem/D
+http://codeforces.com/contest/342/problem/E
+http://codeforces.com/problemset/problem/86/D
+SPOJ KQUERY2 -> SOLVED
+SPOJ RACETIME/ -> SOLVED
+http://codeforces.com/problemset/problem/121/E -> SOLVED
+
+
+MO's ALGORITHM:
+SPOJ -> COT2 (On Tree) -> SOLVED
+http://codeforces.com/gym/100962/problem/F -> SOLVED
+SPOJ - EVENFRQ -> SOLVED
+SPOJ - ZQUERY
+SPOJ - DQUERY -> SOLVED
+Amritapuri 2015 COPRIMES
+SPOJ FREQ2 -> SOLVED
+Codeforces 633H
+http://codeforces.com/contest/617/problem/E -> SOLVED
+http://codeforces.com/contest/620/problem/F
+Codeforces 703D Mishka And Interesting Sum -> SOLVED
+Optimization - Codeforces 594D, code by geniucos -> SOLVED
+https://uva.onlinejudge.org/external/118/11898.pdf
+https://www.codechef.com/problems/GERALD07
+http://codeforces.com/problemset/problem/86/D -> SOLVED
+http://codeforces.com/contest/600/problem/E -> SOLVED
+https://www.codechef.com/MARCH15/problems/QCHEF/
+http://www.spoj.com/problems/PATULJCI/
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=106558#overview
+https://www.hackerrank.com/challenges/almost-equal-advanced
+https://www.hackerrank.com/contests/101hack26/challenges/sherlock-and-unique-substrings/editorial
+
+
+GAME THEORY:
+UVA 1566 John
+https://uva.onlinejudge.org/external/128/12846.pdf
+http://poj.org/problem?id=1704
+http://www.spoj.com/problems/DCEPC703/
+UVA 1482 Playing With Stones
+http://codeforces.com/problemset/problem/154/D
+URAL 1540 - Battle for the ring
+Lieges of Legendre - Codeforces 603C
+UVA 13021 - Game of Cards -> http://swerc.up.pt/2015/reports/discussion.pdf
+Queen Game - UVA 12350
+Game - UVA 11249
+Kisu Pari Na I - UVA 12409
+http://codeforces.com/contest/138/problem/D
+https://uva.onlinejudge.org/external/15/1566.pdf
+Left Right - UVA 11758
+Alice and Bob - UVA 1500
+Games Are Important  - UVA 11927
+Game of CS  - UVA 12033
+Rectangle XOR Game - UVA 12629
+https://uva.onlinejudge.org/external/13/1378.html
+http://www.spoj.com/problems/PT07A/
+http://www.spoj.com/problems/MATGAME/
+http://www.spoj.com/problems/QCJ3/
+http://www.spoj.com/problems/KRUSKAL/
+http://letuskode.blogspot.ch/2014/08/grundy-numbers.html
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=52800#overview   -> UVA PROBLEMS!!!
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=117798
+http://codeforces.com/blog/entry/20357
+http://www.spoj.com/problems/CHASE1/
+
+
+BORDERLINE DP:
+Hust Contest
+http://www.cnblogs.com/jianglangcaijin/category/539341.html
+
+
+CSDN BLOGS:
+http://www.cnblogs.com/jianglangcaijin/archive/2012/11/29/2795487.html (Nice topics!)
+
+
+SIMPLEX/LINEAR PROGRAMMING:
+DUALITY IN LP (TooSimple Link) -> http://web.mit.edu/15.053/www/AMP-Chapter-04.pdf
+Topcoder SRM 682 Hard: TheKFactor
+http://www.codechef.com/problems/FLYDIST/
+http://www.spoj.com/problems/NECKLACE/
+http://codeforces.com/contest/375/problem/E
+http://www.spoj.com/problems/SEQ1/
+http://codeforces.com/contest/546/problem/E
+http://codeforces.com/contest/605/problem/C -> SOLVED
+UVA 802 - Lead or Gold -> SOLVED
+UVA 10498 - Happiness -> SOLVED
+UVA 11301 - Great Wall of China
+UVA 10089 - Repackaging -> SOLVED
+HackerRank Shield Generator -> SOLVED
+UVA 1079 - A Careful Approach
+UVA 1459 Flowers Placement -> K'th lexicographically valid matching
+SPOJ DICE -> SOLVED
+UVA 11647 Judgement Day
+UVALIVE 3890 - Most Distant Point from the Sea
+UVALIVE 4027 - Expensive Drink
+Topcoder SRM 476 Div1 1000, Spaceship Evacuation ->  http://topcoder.bgcoder.com/print.php?id=2700
+https://icpcarchive.ecs.baylor.edu/external/24/2429.pdf (SIMPLEX OR FLOW?) http://apps.topcoder.com/forums/?module=Thread&threadID=608707&start=0&mc=16#954675
+UVA 10845 - The Crusades (Simplex or Flow?) http://apps.topcoder.com/forums/?module=Thread&threadID=589756&start=0&mc=3#873976
+Cashier Employment - POJ 1275 or UVALIVE 2058
+http://rabbit.eng.miami.edu/judge/p111.html
+http://web.mit.edu/15.053/www/AMP-Chapter-09.pdf -> (Binary Constraints)
+http://icpc.cs.uchicago.edu/invitational2013/_static/ucipc2013_pset.pdf -> Problem F  (http://www.e-olymp.com/en/problems/5930)
+https://code.google.com/codejam/contest/8234486/dashboard#s=p1 (Kiddie Pool Problem B)
+https://code.google.com/codejam/contest/32001/dashboard#s=p2 (Star wars Problem C) -> SOLVED
+https://community.topcoder.com/stat?c=problem_statement&pm=3942&rd=6520 -> SOLVED
+https://community.topcoder.com/stat?c=problem_statement&pm=8605&rd=12012&rm=269199&cr=7581406
+http://explain-that.blogspot.com/2011/06/logic-of-how-simplex-method-works.html
+http://pages.intnet.mu/cueboy/education/notes/algebra/simplex.htm
+http://www.math.nus.edu.sg/~bao/teach/ma3264/documents/simplex1.pdf
+http://www.math.washington.edu/~king/coursedir/m308a01/Projects/m308a01-pdf/peydaye-saheli.pdf
+https://www.cs.duke.edu/courses/spring08/cps296.2/simplex.pdf
+http://mat.gsia.cmu.edu/classes/QUANT/NOTES/chap7.pdf
+IMPLEMENTATION -> http://pastebin.com/SD5iHLa9
+IMPLEMENTATION -> https://github.com/evandrix/codejam/blob/master/lib/code2/Arithmetic/simplex.cpp
+IMPLEMENTATION -> http://d.hatena.ne.jp/anta1/20121223/1356258857
+
+
+
+CARTESIAN TREES:
+http://acm.hdu.edu.cn/showproblem.php?pid=5412 (BIT + Treap)  http://codeforces.com/blog/entry/20932 + http://bestcoder.hdu.edu.cn/blog/page/2/
+SPOJ - GSS6 -> SOLVED
+ZOJ 3765 Lights
+UVA Tobby Stones 13102 -> SOLVED
+HDU 3487 Play with Chains -> SOLVED
+http://codeforces.com/contest/702/problem/F
+HDU 3436 Queue Jumpers -> SOLVED
+SPOJ - QMAX3VN -> SOLVED
+SPOJ - RANGESUM -> SOLVED
+SPOJ - CARDSHUF -> SOLVED
+http://www.spoj.com/problems/WEIRDFN/ -> SOLVED
+http://www.spoj.com/problems/GSS8/ -> SOLVED
+http://www.spoj.com/problems/XXXXXXXX/ -> SOLVED
+SPOJ - STRLCP -> SOLVED
+http://www.spoj.com/problems/SEQ2/ -> SOLVED
+Dynamic Len set - UVA 12345 -> SOLVED
+Dynamic Inversion - UVA 11990 -> SOLVED
+Robotic Sort - UVA 1402 -> SOLVED
+http://a2oj.com/Category.jsp?ID=14
+https://uva.onlinejudge.org/external/14/1479.pdf -> SOLVED
+https://uva.onlinejudge.org/external/125/12538.pdf -> SOLVED with ROPE
+https://uva.onlinejudge.org/external/126/12634.pdf -> SOLVED
+Permutation Transformer -  UVA 11922 -> SOLVED
+Jewel Magic - UVA 11996 -> SOLVED
+http://codeforces.com/gym/100451/problem/H
+Dynamic Summation - UVA 11672 -> SOLVED
+POJ Supermemo 3580  -> SOLVED
+http://codeforces.com/contest/455/problem/D -> SOLVED
+Codeforces 100488L - Two Heads are better than one -> SOLVED
+https://www.codechef.com/problems/PALINDR
+http://www.codechef.com/problems/CARDSHUF/ -> SOLVED
+https://www.codechef.com/LTIME25/problems/CHEFDTRE
+https://www.hackerearth.com/july-clash-15/algorithm/upgrade/
+SUB 2016 E - Acme Paints Bangladesh -> SOLVED
+https://www.hackerrank.com/contests/101hack29/challenges/xaero-and-breaking-enigma
+http://codeforces.com/gym/100125/attachments/download/1315/20122013-acmicpc-neerc-northern-subregional-contest-en.pdf -> Problem L Log Analysis -> SOLVED
+http://www.spoj.com/problems/CNTINDX2/ -> SOLVED
+http://codeforces.com/blog/entry/10314
+http://acm.hust.edu.cn/vjudge/contest/129593#overview
+http://threads-iiith.quora.com/Treaps-One-Tree-to-Rule-em-all-Part-1
+http://threads-iiith.quora.com/Treaps-One-Tree-to-Rule-em-all-Part-2
+Implementation using rotations -> http://www.prefield.com/algorithm/container/treap.html or http://apps.topcoder.com/forums/?module=Thread&threadID=644435&start=0&mc=14#1115013
+
+
+GEOMETRY:
+Library -> https://github.com/yulonglong/UVa-Solutions/blob/master/10078.cpp
+Herbicide - UVA 12016
+Metal - UVA 1425
+Viva Confetti - UVA 1308
+https://uva.onlinejudge.org/external/15/1571.pdf
+https://uva.onlinejudge.org/external/121/12123.pdf
+Circle Strafing - UVA 12056
+Inhabitants - UVA 12048 -> SOLVED
+UVA 12687 - Cleaning the hallway
+https://uva.onlinejudge.org/external/126/12675.pdf
+https://uva.onlinejudge.org/external/126/12647.pdf
+http://codeforces.com/blog/entry/20377
+http://zobayer.blogspot.com/search/label/geometry
+UVA 10794 The Deadly Olympic Returns
+UVA 11612 Sultan and Khairun Shundori
+UVA 11674 In-Ellipse
+UVA 11676 Deadly Attack
+UVA 11726 Crime Scene
+UVA 11595 Crossing Streets Extreme -> http://blog.csdn.net/keshuai19940722/article/details/48142175
+UVA 11836 Star War -> http://blog.csdn.net/keshuai19940722/article/details/48142869
+UVA 1318 Monster Trap -> http://blog.csdn.net/keshuai19940722/article/details/47844711
+UVA 1475 Jungle Outpost -> Rotating calipers -> http://blog.csdn.net/keshuai19940722/article/details/47844621
+UVA 1298 Triathlon -> http://blog.csdn.net/keshuai19940722/article/details/47844561
+UVA 1396 Most Distant Point from the sea
+UVA 1453 Squares
+UVA 11177 Fighting against a polygonal monster -> http://blog.csdn.net/keshuai19940722/article/details/47791943
+UVA 11978 Fukushima Nuclear Blast -> http://blog.csdn.net/keshuai19940722/article/details/47791817
+UVA 1017 Merrily We Roll Along -> http://blog.csdn.net/keshuai19940722/article/details/47791115
+UVA 1463 Largest Empty Circle on a Segment -> http://blog.csdn.net/keshuai19940722/article/details/47791659
+UVA 10335 Ray Inside A Polygon -> http://blog.csdn.net/keshuai19940722/article/details/47732435
+UVA 1301 Fishnet -> http://blog.csdn.net/keshuai19940722/article/details/47732353
+UVA 10439 Temple of Dune -> http://blog.csdn.net/keshuai19940722/article/details/47680113
+UVA 1447 Malfatti Circles -> http://blog.csdn.net/keshuai19940722/article/details/47680033
+UVA 11186 Circum Triangle -> http://blog.csdn.net/keshuai19940722/article/details/47679983
+UVA 12301 An Angular Puzzle -> http://blog.csdn.net/keshuai19940722/article/details/47679929
+UVA 11731 Ex-circles -> http://blog.csdn.net/keshuai19940722/article/details/47679449
+UVA 11928 The Busy Dog -> http://blog.csdn.net/keshuai19940722/article/details/47732629
+
+
+
+TRIE:
+Diccionário Portuñol - UVA 12359
+Dictionary - UVA 1523
+
+
+DANCING LINKS:
+UVA - Servicing Station 10160
+UVA Tabriz City
+UVA 1309 -> SOLVED
+UVA 1461
+HDU 1426 Sudoku Killer
+https://uva.onlinejudge.org/external/3/387.pdf
+UVA 211 The Domino Effect
+http://www.spoj.com/problems/SUDOKU/
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=110082#overview
+UVA 12719 Fill the cuboid
+UVA 13100 -> https://github.com/morris821028/UVa/blob/master/volume131/13100%20-%20Painting%20the%20Wall%5BDLX%5D.cpp
+http://www.spoj.com/problems/SUDOGOB/
+UVALIVE 3285 Sudoku -> SOLVED
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=107230#overview
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=119073#overview
+http://www.cs.mcgill.ca/~aassaf9/python/algorithm_x.html
+https://gieseanw.wordpress.com/2011/06/16/solving-sudoku-revisited/
+IMPLEMENTATION -> http://www.cnblogs.com/AOQNRMGYXLMV/p/4820524.html
+IMPLEMENTATION -> https://github.com/morris821028/UVa/blob/master/volume013/1309%20-%20Sudoku.cpp
+IMPLEMENTATION -> https://github.com/zimpha/acm-icpc/blob/master/UVA/12719%20-%20Fill%20the%20Cuboid.cc
+
+
+AHO CORASICK:
+HDU 2825 - Wireless Password
+LightOJ 1427 - Substring Frequency -> SOLVED
+HDU 5384 Danganronpa
+ZOJ 3494 BCD Code
+HDU 3695 Computer Virus on Planet Pandora
+HDU 3341 Lost's Revenge
+POJ 1699 Best Sequence
+HDU 1277
+HDU 2296 Ring
+HDU 2457 DNA Repair
+ZOJ 3228 Searching the string
+POJ 1625 Censored
+HDU 2243
+POJ 2778 DNA Sequence
+ZOJ 3430 Detect The Virus
+HDU 2896
+HDU 3065
+Top 10 - UVA 1254 -> SOLVED
+Codeforces 710F String Set Queries -> SOLVED
+GRE Words - UVA 1502 -> SOLVED
+HDU 2222 Keywords Search -> SOLVED
+GRE Words Revenge - UVA 1676 -> SOLVED
+Dominating Patterns - UVA 1449
+Codeforces 86C Genetic Engineering
+Substring - UVA 11468
+Dueue's Quiz - UVA 10975
+http://codeforces.com/gym/101064 Problem E  - A Word To Trump All -> SOLVED
+Growing Strings - UVA 12244 -> SOLVED
+Dangerous Patterns - ZOJ 2115
+Hari Merdeka - Live Archive 6806
+Music And Lyrics - Codechef
+e-Government - Codeforces
+Prefixes and suffixes - SGU
+Lucky Common Subsequence - Codeforces
+Substring Problem - SPOJ
+Emoticons - SPOJ
+Word Puzzles - SPOJ
+SPOJ TREEBA
+Puzzle - UVA 1399
+Password Suspects - UVA 1076 -> SOLVED
+Codeforces 587F
+http://www.spoj.com/problems/SUB_PROB/
+http://codeforces.com/contest/585/problem/F
+http://blog.csdn.net/keshuai19940722/article/category/2518187
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=64941#overview
+http://codeforces.com/blog/entry/10725
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=4624#overview
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=96909#overview
+
+
+DISCRETE LOGARITHM:
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=110057#overview
+
+
+MONOTONOUS QUEUE:
+IMPLEMENTATION -> https://github.com/Malatawy15/Algorithms-Library/blob/master/Data%20Structures/C%2B%2B/Monotone%20Queue.cpp
+
+
+MOBIUS FUNCTION:
+https://icpcarchive.ecs.baylor.edu/external/21/2116.pdf (Very Easy)
+SPOJ SQFREE  ->  SOLVED
+HDU 5321 Beautiful Set -> SOLVED
+http://codeforces.com/contest/645/problem/F -> SOLVED
+Chocolate And Money - UVA 12631  -> SOLVED
+http://codeforces.com/contest/585/problem/E   -> SOLVED
+LightOJ Extreme GCD  ->  SOLVED
+Codechef COPRIMES3  -> SOLVED
+http://www.spoj.com/problems/PGCD/  -> SOLVED
+http://www.spoj.com/problems/VLATTICE/
+http://www.spoj.com/problems/PSTR/
+http://www.spoj.com/problems/GF2/
+SPOJ NGCD -> SOLVED
+
+
+
+SUFFIX AUTOMATON:
+IMPLEMENTATION -> http://www.acmerblog.com/hdu-4436-str2int-7449.html
+IMPLEMENTATION -> http://www.cnblogs.com/oyking/p/3354734.html
+http://felix-halim.net/pg/suffix-tree/index.php
+http://codeforces.com/contest/616/problem/F
+https://discuss.codechef.com/questions/23739/tmp01-editorial (Suffix Tree)
+Text Processor - UVA 13023 (Suffix Tree) http://swerc.up.pt/2015/reports/discussion.pdf
+File Retrieval - UVA 12361
+Growing Strings - UVA 12244
+http://www.spoj.com/problems/TAP2013E/
+https://www.codechef.com/problems/INSQ16F
+str2int - UVA 1673
+UVA 1254 - Top 10
+http://www.spoj.com/problems/LCS/
+http://www.spoj.com/problems/NSUBSTR/
+https://www.codechef.com/LTIME13/problems/SUBQUERY
+http://discuss.codechef.com/questions/39945/sstory-editorial
+http://acm.hust.edu.cn/vjudge/contest/128545#overview
+http://codeforces.com/problemset/problem/128/B
+http://codeforces.com/contest/235/problem/C
+http://codeforces.com/contest/452/problem/E
+http://codeforces.com/blog/entry/20861
+Codeforces 585F
+
+
+CHINESE REMAINDER THEOREM:
+Code Feat - UVA 11754 -> SOLVED
+
+
+
+SPLAY TREE:
+Supermemo - POJ 3580
+Dynamic Len set - UVA 12345
+Dynamic Summation - UVA 11672
+https://uva.onlinejudge.org/external/116/p11688.pdf
+Permutation Transformer -  UVA 11922
+Dynamic Inversion - UVA 11990
+Jewel Magic - UVA 11996
+SGU 187 Twist and whirl
+HDU I hate it 1754
+HDU - PLay with Chain 3487
+http://linjiazhen.is-programmer.com/posts/26006.html
+http://digital.cs.usu.edu/~allan/DS/Notes/Ch22.pdf
+Implementation -> http://pastebin.com/ZC30QWLS
+Implementation -> https://github.com/Neroysq/Neroysq-SPOJ/blob/master/Codes/GSS6.cpp
+IMPLEMENTATION -> http://blog.csdn.net/qq_30401759/article/details/50651366
+https://sites.google.com/site/indy256/algo/link-cut-tree-lca
+Implementation -> https://github.com/Neroysq/ACM/blob/master/Model/splay.cpp -> IMPLEMENTATION For ZOJ 3765 Lights
+Skip List and Splay Tree Implementation -> https://discuss.codechef.com/questions/4021/cardshuf-editorial
+https://github.com/danhnguyen0902/SPOJ-Algorithm-and-Data-Structures/blob/master/OTHERS/SPLAY%20TREE%20(NKGSHOW)/SPLAY%20TREE%20(NKGSHOW)/SPLAY%20TREE.cpp
+
+
+
+PERSISTENT SEGMENT TREE:
+Dynamic Len set - UVA 12345
+ZOJ 2112
+SPOJ COT
+SPOJ MKTHNUM
+SPOJ DQUERY
+SPOJ KQUERY
+http://codeforces.com/contest/464/problem/E
+SPOJ METEORS (http://codeforces.com/blog/entry/45578 Comment BishalG)
+UVA Version Controlled IDE -> Persistent Treap -> Clean solution with rope = https://github.com/zimpha/acm-icpc/blob/master/UVA/12538%20-%20Version%20Controlled%20IDE.cc
+http://acm.hdu.edu.cn/showproblem.php?pid=5412
+https://uva.onlinejudge.org/external/116/11669.pdf
+https://www.hackerrank.com/contests/101hack26/challenges/sherlock-and-unique-substrings
+
+
+DYNAMIC CONNECTIVITY / LINK CUT TREE:
+http://www.codeforces.com/contest/117/submission/860934
+http://codeforces.com/gym/100551
+Gotham’s Rail Track - UVA 12757
+Dynamic Len set - UVA 12345 (Seen from hust source
+SPOJ DYNACON1
+https://uva.onlinejudge.org/external/14/1479.pdf
+https://uva.onlinejudge.org/external/119/11998.pdf
+https://uva.onlinejudge.org/external/119/11994.pdf
+SPOJ - DYNALCA
+https://www.codechef.com/problems/GERALD07
+https://www.codechef.com/problems/QTREE6
+https://gist.github.com/msg555/4041448
+https://github.com/foreverbell/acm-icpc-cheat-sheet/blob/master/code/link-cut-tree.cpp -> IMPLEMENTATION
+
+
+
+CLOSEST PAIR PROBLEM:
+http://www.spoj.com/problems/IITKWPCL/
+UVA 11378 Bey Battle
+
+
+2SAT:
+POJ 2749 - Building Roads
+UVA 1703 - Metal Processing Plant
+UVA 1146 - Now or Later -> SOLVED
+UVA 1391 - Astronaut -> SOLVED
+UVA 11861 - Explosion -> SOLVED
+UVA 12745 - Wishmaster -> SOLVED
+UVA 1466 - String Phone
+UVA 1086 The Minister's Major Mess -> Nice implementation http://blog.csdn.net/keshuai19940722/article/details/48353155
+http://codeforces.com/problemset/problem/568/C
+http://codeforces.com/problemset/problem/587/D
+http://codeforces.com/blog/entry/16205
+
+
+GAUSSIAN ELIMINATION:
+UVA 12177 - First Knight (On band matrix) -> SOLVED
+UVA 1704 Pachinko -> SOLVED
+UVA 12143 - Stopping Doom's Day (Or Lagrange's Polynomial Interpolation) -> SOLVED
+http://codeforces.com/gym/100495/problem/I -> SOLVED
+UVA 12695 - Travelling Fool -> SOLVED
+Square - UVA 11542 -> SOLVED
+Graph Coloring in HSL - UVA 11778 -> SOLVED
+HDU 3364 Lanterns -> SOLVED
+Live Archive 5070 Awkard Lights -> SOLVED
+http://www.spoj.com/problems/GS/ -> SOLVED
+http://www.spoj.com/problems/LIM/ -> SOLVED
+UVA 12910 Snakes And Ladders -> SOLVED
+http://www.spoj.com/problems/XMAX/ -> SOLVED
+http://www.spoj.com/problems/RESIST/ -> SOLVED
+http://www.spoj.com/problems/NWERC04H/ -> SOLVED
+UVA 1560 Extended Lights Out -> SOLVED
+HDU 4870 Rating
+UVA 10808 Rational Resistors
+UVA 1564 Widget Factory
+UVA 1562 Balanced Chemical Equations
+POJ 3807 Chemist's Math
+POJ 3185 The Water Bowls
+POJ 2449 Remmarguts' Date
+POJ 1704 Georgia And Bob
+HDU 3949 XOR
+UVA 345
+HDU 4035 Maze
+HDU 3976 Electric Resistance
+HDU 3571 N Dimensional Sphere
+HDU 4200 Bad Wiring
+HDU 5006 Resistance
+UVA 1397 The Teacher's Side of Math
+UVA 1358 Generator -> SOLVED
+POJ 1487 Single-Player Games
+POJ 1681 Painter's Problem
+POJ 1753 Flip Game
+http://math.stackexchange.com/questions/48682/maximization-with-xor-operator
+
+
+MANACHER + PALINDROME TREE:
+UVA Daily Potato -> SOLVED
+URAL 2042 - Nikita
+URAL 2044 - 31 Palindromes
+URAL 2059 Not So Common Palindromes -> SOLVED
+UVA 13092 Fold The String -> SOLVED
+http://www.codeforces.com/gym/100032 Problem K Subpalindrome
+http://codeforces.com/gym/100543 Problem K Virus Synthesis (CERC 2014)
+http://www.voidcn.com/blog/u013368721/cata/2792813/
+http://codeforces.com/contest/17/problem/E
+Live Archive 4975 Casting Spells -> SOLVED
+http://www.spoj.com/problems/APIO14_A/ -> SOLVED
+https://www.codechef.com/problems/NONPALIN -> TLE with N log N
+http://codeforces.com/blog/entry/19193
+http://blog.csdn.net/u013738743/article/category/3034461 -> PALINDROME TREE + MANACHER
+Timus Team Contest on Hust -> So many palindromic tree problems
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=114384#overview
+
+
+IDA* SEARCH:
+https://www.codechef.com/JAN15/problems/SEAND2
+https://www.codechef.com/DEC14/problems/KALKI
+https://uva.onlinejudge.org/external/126/12639.pdf
+https://a2oj.com/category?ID=84
+POJ 3527 Generalized Connect Four (Alpha Beta) http://acm.hust.edu.cn/vjudge/contest/view.action?cid=8716#overview
+UVA Lunar Forest 10833
+https://uva.onlinejudge.org/external/112/p11213.pdf
+https://uva.onlinejudge.org/external/117/p11772.pdf
+https://uva.onlinejudge.org/external/107/10715.pdf (Classified Genetic Algorithm on Morris)
+UVA Integer Game - 12217
+UVA Digit Puzzle - 12107
+UVA Power Calculus - 1374
+https://uva.onlinejudge.org/external/102/10274.pdf
+UVA Egyptian Fraction Hard Version - 12558
+http://www.spoj.com/problems/BLOCK_D/
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=295
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=109
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=841
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=842
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=109015#overview
+http://blog.csdn.net/u011217342/article/category/1771623/1 (BACKTRACKING LIST)
+https://icpcarchive.ecs.baylor.edu/external/34/3476.pdf
+http://acm.hust.edu.cn/vjudge/contest/129943#overview
+
+
+
+MATRIX EXPONENTIATION:
+Odd Loving Baker - POJ 1977
+Blocks For Kids - UVALive 4332
+http://vjudge.net/contest/34708#overview
+http://vjudge.net/contest/36552#overview
+http://vjudge.net/contest/46445#overview
+
+
+
+DP ON TREES:
+Facebook HackerCup 2015 Round 2 Problem C (Trie) -> SOLVED
+Facebook HackerCup 2016 Qualificaiton Round Problem D (Trie) -> SOLVED
+Dividing The Names - UVA 12857 (Trie)
+Caves - UVA 1407
+Exploring Pyramids - UVA 1362
+Disjoint Paths - UVA 1236
+Protecting Zonk - UVA 12093
+http://codeforces.com/contest/581/problem/F
+Plants vs. Zombies HD SP - UVA 12452
+A game for kids - UVA 12899
+https://uva.onlinejudge.org/external/14/1436.pdf
+https://icpcarchive.ecs.baylor.edu/external/71/7172.pdf
+Ancestors - UVA 12466  -> SOLVED
+http://codeforces.com/problemset/problem/581/F
+IUT 2015 F - Number of ways to split a tree so that each sub tree does not contain more than k nodes. N <= 1000, K <= 50  -> SOLVED
+https://www.hackerrank.com/challenges/tree-pruning
+https://www.hackerrank.com/contests/quora-haqathon/challenges/relatedquestions
+http://codeforces.com/contest/440/problem/D
+http://main.edu.pl/en/archive/pa/2007/bar
+http://ioinformatics.org/locations/ioi05/contest/day2/riv/riv.pdf
+http://ioinformatics.org/locations/ioi07/contest/day2/training.pdf
+http://www.iarcs.org.in/inoi/online-study-material/topics/dp-trees.php  - Tutorial
+
+
+DP OPTIMZATIONS:
+http://codeforces.com/contest/673/problem/E
+http://www.usaco.org/current/data/sol_cbarn_platinum_feb16.html
+http://codeforces.com/contest/631/problem/E (Convex Hull Trick)
+Convex Hull Trick Implementation -> http://pastebin.com/mKaj3xA5
+http://www.spoj.com/problems/TRAKA/
+Arranging Heaps - UVA 12524
+Gain Battle Power - UVA 12836
+Naming Babies - UVA 12594
+Optimal Binary Search Tree - UVA 10304
+Binary Search Tree - UVA 12809
+SPOJ ACQUIRE
+SPOJ BREAKING STRINGS
+http://www.spoj.com/problems/APIO10A/
+http://codeforces.com/problemset/problem/319/C
+http://codeforces.com/contest/311/problem/B
+Hackerrank IOI or Sth Problem
+APIO Split the Sequence - http://olympiads.kz/apio2014/apio2014_problemset.pdf
+http://poj.org/problem?id=1180
+http://poj.org/problem?id=2018
+HDU Print Article 3507
+http://www.spoj.com/problems/GOODG/
+http://codeforces.com/contest/455/problem/E
+http://codeforces.com/contest/678/submission/18430429
+CONVEX HULL TRICK IMPLEMENTATION -> https://github.com/ADJA/algos/blob/master/DP/ConvexHullTrick.cpp
+DYNAMIC CONVEX HULL TRICK BLOG -> http://codeforces.com/blog/entry/11155#comment-162462
+DYNAMIC CONVEX HULL TRICK IMPLEMENTATION -> https://github.com/niklasb/contest-algos/blob/master/convex_hull/dynamic.cpp
+
+
+MATCHING IN GENERAL GRAPHS:
+GENERAL MATCHING CODE, EDMONDS BLOSSOM -> http://www.keithschwarz.com/interesting/code/edmonds-matching/EdmondsMatching.java.html
+GENERAL MATCHING PROBLEMS -> http://apps.topcoder.com/forums/?module=Thread&threadID=650755&start=0&mc=5#1679379
+UVA 11439 - Maximizing the ICPC -> SOLVED
+URAL 1099 - Work Scheduling
+https://code.google.com/codejam/contest/dashboard?c=32008#s=p3
+UVALIVE 4130 - P2P Currency Service
+
+
+MAXIMUM FLOW/MATCHING:
+Network Simplex (200 to 300 times faster than simplex)
+http://web.engr.illinois.edu/~jeffe/teaching/algorithms/2009/notes/18-maxflowext.pdf
+http://codeforces.com/contest/704/problem/D -> (Dinic's complexity = E * sqrt(E) from editorial)
+Maximum Weight Matching -> AWESOME IMPLEMENTATION -> https://github.com/zimpha/acm-icpc/blob/master/UVA/12711%20-%20Game%20of%20Throne.cc
+http://www.spoj.com/problems/JOLLYKINGDOM/ (MATCHING AFTER ADDING EDGES)
+http://www.spoj.com/problems/SELLPHN2/
+Codeforces 717G
+Gym 100548 C The Problem Needs 3D Arrays
+Implementation -> http://codeforces.com/gym/100548/submission/13469032
+Implementation -> http://codeforces.com/gym/100548/submission/12981073
+UVALIVE 4766 Gold Mines
+UVA 1349 Optimal Bus Route Design
+http://www.spoj.com/problems/GRIMM/ (Lexicographic minimum matching)
+Choosing Presents - UVA 12623 (Printing lexicographically smallest solution in min/cost max/flow)
+https://code.google.com/codejam/contest/dashboard?c=204113#s=p2&a=2
+http://www.spoj.com/problems/DIVREL/ (Bipartite Matching or Minimum path cover in DAG) Dilworth's Theorem -> SOLVED
+Hyper Knights - UVA 12288
+Live Archive 6585  Draughts
+http://codeforces.com/gym/100825/problem/F
+http://www.spoj.com/problems/PROFIT/
+UVA 12831 - Bob The Builder -> SOLVED
+Inspection - UVA 1440
+Jamie's Contact Groups - UVA 1345
+UVA Rent A Car 12432
+http://www.spoj.com/problems/DISJPATH/
+http://www.spoj.com/problems/POTHOLE/
+UVA 10845 - The Crusades (Simplex or Flow?) http://apps.topcoder.com/forums/?module=Thread&threadID=589756&start=0&mc=3#873976
+UVA Landscaping 13020 -> http://swerc.up.pt/2015/reports/discussion.pdf
+Manhattan Wiring - UVA 1214
+Three Pigs - UVA 10314
+It Can Be Arranged - UVA 12679
+Oil Company - SPOJ 3007
+Monkeys in the Emei Mountain - UVA 11167
+Faster Processing Feasibility - UVA 11358
+March of the penguins - UVA 12125
+Crimewave - UVA 563
+Collectors Problem - UVA 10779
+Angry Programmer - UVA 11506
+Double Shortest Paths - UVA 12821 (Similar to UVA 10806)
+It's All About The Bandwidth - UVA 11603
+All Pairs Maximum Flow - UVA 11594
+Component Placement - UVA 11765
+UVA Earthquake Disaster
+HDU A Simple Gaussian Elimination Problem
+SPOJ FASTFLOW -> SOLVED
+http://www.spoj.com/problems/MTOTALF/en/
+http://www.spoj.com/problems/MOBIVINA/en/
+http://www.spoj.com/problems/MCQUERY/en/
+http://www.spoj.com/problems/BANKROB/
+http://www.spoj.com/problems/NWERC11F/  Also in UVA
+https://www.hackerrank.com/contests/101hack28/challenges/bus-company
+http://acm.hust.edu.cn/vjudge/contest/view.action?cid=62133#overview
+
+
+
+2D SEGMENT TREE:
+http://codeforces.com/blog/entry/16363
+http://www.ioi2013.org/competition/tasks/
+http://www.ioi2013.org/wp-content/uploads/tasks/day2/game/game.pdf
+https://gist.github.com/msg555/6025939
+
+
+MISC:
+Nice Probability Contest! http://codeforces.com/gym/100371
+Segment tree with DSU in each node -> http://codeforces.com/contest/76/submission/8613428
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=856
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=857
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=858
+2D BIT with HASH IMPLEMENTATION -> http://pastie.org/8663922
+D Tree - HDU 4812
+UVA 1492 Adding New Machine
+http://codeforces.com/gym/101064 Problem B and L
+Permutation - HDU 2820
+https://icpcarchive.ecs.baylor.edu/external/58/5890.pdf (Circular LCS)
+World Finals 2012 Analysis -> http://www.csc.kth.se/~austrin/icpc/finals2012solutions.pdf
+http://codeforces.com/contest/616/problem/F
+http://codeforces.com/contest/605/problem/E
+https://www.hackerrank.com/challenges/xor-key
+https://uva.onlinejudge.org/external/115/11592.pdf   (2D Segment Tree/BIT)
+http://www.spoj.com/problems/KL11B/
+http://www.spoj.com/problems/SEQPAR2/
+Jewel Transportation - UVA 12344
+Attractive Grid - UVA 12610
+I Puzzle You - UVA 12618
+Pairing Boys and Girls - UVA 12634 -> SOLVED
+Super Rooks on Chessboard - UVA 12633 -> SOLVED
+Flipping Parentheses - UVALive 6838
+Sweet War - UVALive 6840
+Boxes And Stones - UVA 12525
+Ultimate Devices - UVA 12539 -> SOLVED
+Galactic Transmission - UVA 12595 -> SOLVED
+Nikita - URAL 2042
+https://www.codechef.com/problems/COOLNUM
+http://codeforces.com/blog/entry/18944
+https://www.hackerrank.com/contests/w12/challenges/white-falcon-and-tree
+https://www.hackerrank.com/contests/infinitum-mar14/challenges/summing-the-k-n-r-series
+
+
+
+LIBRARY TODO:
+Dial's Algorithm, Fast Dijkstra
+Alpha Beta Pruning
+Euler Tour in O(n) -  http://www.algorithmist.com/index.php/Euler_tour
+Binomial Co-efficient modulo prime powers
+
+
+LINKS:
+SPFA -> https://github.com/danhnguyen0902/SPOJ-Algorithm-and-Data-Structures/blob/master/OTHERS/SPFA%20(BETTER%20VERSION%20OF%20BELLMAN%20FORD)/SPFA%20(BETTER%20VERSION%20OF%20BELLMAN%20FORD)/SPFA.cpp
+ASSEMBLY IN C++ -> http://codeforces.com/contest/656/submission/17107204
+SPOJ PROBLEM NAMES -> https://gist.github.com/eightnoteight/9bca355f38444a161ef8
+http://www.cs.sfu.ca/CourseCentral/705/abulatov/#lec
+https://github.com/stubbscroll/TCR/blob/master/ALGO/problems.txt -> Problem List + Classification
+http://web.mit.edu/merolish/www/math.html -> GREAT LINK FOR MATH
+http://www.usaco.org/index.php?page=contests -> Nice problems with analysis!
+https://www.hackerrank.com/contests/zenhacks/challenges/page/1 -> Nice Problems!
+http://hsin.hr/coci/ -> Nice problems with solutions!
+Bubble Cup Awesome Editorials for SPOJ -> http://www.bubblecup.org/Media/Booklet2012.pdf
+Nice link for SPOJ!! -> http://praveendhinwacoding.blogspot.com/2013/06/700-problems-to-understand-you-complete.html
+http://visualgo.net/
+http://ahmed-aly.com/Categories.jsp
+http://blog.csdn.net/keshuai19940722/article/category/2518187
+http://www.csse.monash.edu.au/~lloyd/tildeStrings/Alignment/86.IPL.html
+https://solveit.quora.com/
+http://decomplexify.blogspot.com/
+http://www.lookingforachallengethebook.com/uploads/1/4/5/5/14555448/preview-_looking_for_a_challenge.pdf
+http://algo.is/competitive-programming-course/
+http://lyceeenligne.free.fr/IMG/pdf/Catalan.pdf
+http://www.csc.kth.se/utbildning/kth/kurser/DD2440/avalg07/algnotes.pdf
+http://courses.csail.mit.edu/6.851/spring14/lectures/
+http://abitofcs.blogspot.com/search/label/Dynamic%20Programming?updated-max=2015-03-17T01:31:00%2B08:00&max-results=20&start=9&by-date=false
+http://pastebin.com/u/LinKin
+https://code.google.com/p/aoapc-book/wiki/TrainingGuideChapterThree
+Problem Category Blog - http://blog.csdn.net/u011328934/article/category/2506279/4
+https://github.com/shivam217/CP/blob/master/DP%20TODO%20list

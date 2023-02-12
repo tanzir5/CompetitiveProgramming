@@ -1,0 +1,5 @@
+/*
+    Topologically sort the nodes of the main graph.
+    Start running dfs from nodes in sorted order in the reverse graph.
+    Nodes visited in a single dfs form a SCC.
+*/

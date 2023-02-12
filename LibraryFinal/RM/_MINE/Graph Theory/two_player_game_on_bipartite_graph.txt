@@ -1,0 +1,21 @@
+Lets solve a more general problem where you are given a bipartite graph. Player 2 picks a vertex for player 1 to start with , now they alternate turns , within each turn , a player must choose a neighbouring unvisited vertex to go to , game ends when a player can't make a move.
+Suppose this graph has a perfect matching , who will win?
+Turns out , Player 1 always has a winning strategy irrespective of what start node is chosen by player 2.
+Player one can use this strategy : Find any perfect matching initially , When at any node , he chooses to go to a node which this node is matched to in this perfect matching. You can easily prove that this strategy will result in player 2 not being able to make a move at the end.
+Now let us generalise it to graphs which do not have a perfect matching.
+Suppose there is a node which gets matched to some other node in every possible maximal matching.
+Claim: This node is a winning node for player 1 if he starts at it.
+Proof: Lets call this node a , suppose you start at a , if you go to a neighbour of a say x , if x has no other neighbours , then player 1 wins trivially.
+Otherwise if y is a neighbour of x , then if there exists some matching where y is not matched to some other node , you can match y to x and not match a to anyone which gives another maximal matching where a is not matched to anyone which is contradicting to the fact that a is a part of every maximal matching.
+Hence we proved that every neighbour of y is a part of every maximal matching hence when player 2 moves to a neighbour of x , he is back again at a node which is a part of every maximal matching.
+The only way this process would end is when player 2 has no move to make when player 1 would win
+Claim:Any node for which there exists some maximal matching where this node is not matched to anyone would make player 1 lose if he starts here
+Proof: Lets call this node a , if a doesn't have any neighbours , player 2 wins trivially
+Otherwise suppose x is a neighbour of a , then x must have some other neighbour otherwise in every maximal matching , a would be matched to x
+Also in every matching , x must be matched to some node otherwise a can be matched to x to obtain a better matching
+So consider y to be a node matched with x , y is not a part of every maximal matching since you can take any matching where x and y are matched and unmatch them and match a and x to obtain a maximal matching.
+Hence if player 1 starts at a node which doesn't belong to every maximal matching , player 2 can force him to stay at such nodes until player 1 has no more moves to make
+
+So player 2 will chose a node to start at for which there is a matching where that node is not matched to someone , since there is no perfect matching in this graph , in any maximal matching , there must exist a node which is not matched to anyone and player 2 can just make player 1 start there and win
+so we obtain that
+Player 1 wins iff there exists a perfect matching.

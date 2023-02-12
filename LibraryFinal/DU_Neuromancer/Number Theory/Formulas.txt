@@ -1,0 +1,34 @@
+
+#Diophantine + Ex-Euclid:
+	a'x' + b'y' = gcd(a,b) = g
+	x' = x + k*(b/g) 
+	y' = y - k*(a/g) 
+
+	x'+y' = x + y + k * (b-a) / g
+
+# a ^ phi(m) = 1 (mod m) where gcd(a,m) = 1
+# E(d) : gcd(d,n) = 1, equals to 1/2 * n * phi[n] 
+# E(phi(d)): d| n, equals to n
+# H(n) = log(n) + 1/(2.*n) + 0.57721566490153286060; //n-th hermonic number
+# n(p1 U p2 U p3 U ..... U pn) 
+	= S - (!p1 ^ !p2 ^ !p3 ^ ..... ^ !pn) 
+	= n(p1)
+	+ n(p2 ^ !p1) 
+	+ n(p3 ^ !p1 ^ !p2) 
+	+ n(p4 ^ !p1 ^ !p2 ^ !p3)
+	... ...
+	... ...
+	+ n(pn ^ !p1 ^ !p2 ^ !p3 ... ... ... ^ !pn 
+
+# (n*(n+1))/2 = sum(sp(n/d)) (d=1 to n) [here sp is summation of phi function]
+
+
+# nth cataln number = (2n)! / ( (n+1)! n!)
+
+# All primitive pythagorian triplets are of the form: (m^2 - n^2, 2mn, m^2+n^2)
+
+# i-th grey code: i ^ (i / 2) 
+
+# e^(ix) = cos(x) + i * sin(x)
+
+# Linearity of expectation E[X+Y+Z] = E[X] + E[Y] + E[Z]

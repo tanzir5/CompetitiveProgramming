@@ -1,0 +1,26 @@
+
+We aim to solve this problem : Meteors
+
+The question simply states :
+There are N member states and M sectors. Each sector is owned by a member state. There are Q queries, each of which denote the amount of meteor shower in a [L, R] range of sectors on that day. The ith member state wants to collect reqd[i] meteors over all its sectors. For every member state, what is the minimum number of days it would have to wait to collect atleast the required amount of meteors
+
+Solution:
+The naive solution here is to do a binary search for each of the N member states. We can update in a range using segment trees with lazy propagation for each query. The time complexity of such a solution would be O(N*logQ*Q*logM). But this one will easily TLE.
+
+Let's see if there's something we are overdoing. For every member state, the binary search applies all the queries until a point multiple times! For example, the first value of mid in the binary search is same for all member states, but we are unnecessarily applying this update everytime, instead of somehow caching it.
+
+Let's do all of these N binary searches in a slightly different fashion. Suppose, in every step we group member states by the range of their binary search. In the first step, all member states lie in range [1,Q]. In the second step, some lie in range [1,Q/2] while some lie in range [Q/2,Q] depending on whether the binary search predicate is satisfied. In the third step, the ranges would be [1,Q/4], [Q/4,Q/2], [Q/2,3Q/4], [3Q/4,Q]. 
+
+So after logQ steps, every range is a single point, denoting the answer for that member state. Also, for each step running the simulation of all Q queries once is sufficient since it can cater to all the member states. This is pretty effective as we can get our answer in Q*logQ simulations rather than N*Q*logQ simulations. Since each simulation is effectively O(logM), we can now solve this problem in O(Q*logQ*logM).
+
+
+"A cool way to visualize this is to think of a binary search tree. Suppose we are doing standard binary search, and we reject the right interval — this can be thought of as moving left in the tree. Similarly, if we reject the left interval, we are moving right in the tree.
+So what Parallel Binary Search does is move one step down in N binary search trees simultaneously in one "sweep", taking O(N*X) time, where X is dependent on the problem and the data structures used in it. Since the height of each tree is LogN, the complexity is O(N*X*logN)."
+
+
+Things to note: 
+-> Initialize the segtree or linked lists at each logQ step
+-> UPDATE every segment fully, even in the base cases. 
+
+
+
